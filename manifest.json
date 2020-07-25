@@ -1,0 +1,6 @@
+ {
+    "name": "Blockhead",
+    "version": "1.0",
+    "description": "Blocks websites the way I'd like",
+    "manifest_version": 2
+  }
