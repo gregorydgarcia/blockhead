@@ -3,7 +3,9 @@ const list = [
   "*://*.reddit.com/*", 
   "*://*.twitter.com/*",
   "*://*.youtube.com/*",
-  "*://*.instagram.com/*"
+  "*://*.instagram.com/*",
+  "*://*.onlyfans.com/*",
+  "*://*.tiktok.com/*"
 ]
 
 const url = "http://www.google.com/"
